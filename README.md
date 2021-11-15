@@ -7,4 +7,4 @@
 - 🤔 I’m looking for help with my Code review
 - 💬 Ask me about: ReactJS
 - 📫 How to reach me: Twitter/Linkedin
-- ⚡ Fun fact: I love watching CS:GO matched. Was active player in CS 1.6
+- ⚡ Fun fact: I love watching CS:GO matches. 
